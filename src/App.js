@@ -41,7 +41,7 @@ const App = () => {
         <div className="down_logo">
             <img src='/3.png' />
         </div>
-        <p className='middle_para2'>Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables - Solar Systems - Motors </p>
+        <p className='middle_para2'>Valves - Pumps - Pipes - IoT Drives and Controllers - Wires and Cables - Solar Systems - Motors </p>
         <h3 style={{textAlign:"center"}}>C.R.I. FLUID SYSTEMS PRODUCTS CATER TO DIVERSE SEGMENTS</h3>
       
       <div className='footers'>
